@@ -18,8 +18,7 @@ https://github.com/gunara192/Data-Science-Analytics-Portfolio.git
 4. Open and run sentiment_analysis.ipynb.
 
 ## Sample Output
-
-Insert your confusion matrix or result chart here as an image once uploaded!
+[Confusion Matrix](confusion_matrix.png) 
 
 ## Contributing
 Feel free to fork this repo or open issues to suggest new features, models, or analysis.   
